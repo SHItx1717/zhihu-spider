@@ -1,5 +1,5 @@
 # zhihu-spider
-SCU-network 一个基于知乎的爬虫
+SCU-network 一个基于知乎的爬虫 代码开发人员：石婷萱、邓雅榕  课程：计算机网络  指导老师：王海舟
 # zhihu_spider 知乎爬虫 README
 ###  **1. 项目定位 & 功能**
 
